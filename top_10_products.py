@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Superstore dataset
-df = pd.read_csv("Sample - Superstore.csv")
+df = pd.read_csv("Sample_Superstore_Top10.csv")
 
 # Calculate total sales for each product
 top_products = (
